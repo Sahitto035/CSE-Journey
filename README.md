@@ -21,7 +21,7 @@ Hi! I'm a first-year Computer Science & Engineering student at **Bangladesh Univ
 |---|---|
 | 🏫 **University** | Bangladesh University of Business and Technology (BUBT) |
 | 📚 **Degree** | B.Sc. in Computer Science & Engineering |
-| 📅 **Started** | 2025 |
+| 📅 **Started** | 2026 (Mid Jan) |
 | 🎯 **Goal** | Build a strong foundation in CS, solve real-world problems, and grow as a software engineer |
 
 ---
