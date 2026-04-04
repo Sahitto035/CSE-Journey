@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+    int x, y;
+    scanf("%d %d", &x, &y);
+
+    int z = (x % 10) + (y % 10);
+
+    printf("%d\n", z);
+
+
+
+
+
+    return 0;
+}
