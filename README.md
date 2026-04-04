@@ -15,7 +15,7 @@
 
 ## 👤 About Me
 
-Hi! I'm a first-year Computer Science & Engineering student at **Bangladesh University of Business and Technology (BUBT)**. This repository is my digital footprint — a place where I save every piece of code, problem solution, and concept I learn throughout my 4-year CSE journey.
+Hi! I'm a first-year Computer Science & Engineering student at **Bangladesh University of Business and Technology (BUBT)**. This repository is my digital footprint — a place where I save every problem I solve, every concept I learn, and track my growth.
 
 | | |
 |---|---|
@@ -59,9 +59,11 @@ All standalone problems and competitive programming solutions live in [`Practice
 
 | Platform | Profile |
 |---|---|
-| 🏆 Codeforces | *Coming soon* |
-| 📘 LeetCode | *Coming soon* |
-| 🔥 HackerRank | *Coming soon* |
+| 🏆 Codeforces | [@Sahitto](https://codeforces.com/profile/Sahitto) |
+| 📘 LeetCode | [@sahitto035](https://leetcode.com/u/sahitto035/) |
+| ⚖️ Vjudge | [@sahitto](https://vjudge.net/user/sahitto) |
+| 🐝 Beecrowd | [@Sahitto](https://judge.beecrowd.com/en/profile/1208879) |
+| 👨‍🍳 CodeChef | [@sahitto_35](https://www.codechef.com/users/sahitto_35) |
 
 ---
 
