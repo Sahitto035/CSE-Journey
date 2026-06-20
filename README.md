@@ -22,7 +22,7 @@ Hi! I'm a first-year Computer Science & Engineering student at **Bangladesh Univ
 | 🏫 **University** | Bangladesh University of Business and Technology (BUBT) |
 | 📚 **Degree** | B.Sc. in Computer Science & Engineering |
 | 📅 **Started** | 2026 (Mid Jan) |
-| 🎯 **Goal** | Build a strong foundation in CS, solve real-world problems, and grow as a software engineer |
+| 🎯 **Goal** | Build a strong foundation in CS, solve real-world problems, and grow as a AI/ML developer |
 
 ---
 
@@ -101,9 +101,9 @@ gcc Semester-1/C-Programming/hello_world.c -o hello_world
 - [x] Semester 1 started
 - [x] Repository set up with folder structure
 - [x] First C program: Hello, World!
-- [ ] Complete Semester 1 C Programming assignments
-- [ ] Complete Semester 1 Basic Math notes
-- [ ] Start competitive programming practice
+- [x] Complete Semester 1 C Programming assignments
+- [x] Complete Semester 1 Basic Math notes
+- [x] Start competitive programming practice
 
 ---
 
